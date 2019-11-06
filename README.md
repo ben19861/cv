@@ -1,1 +1,1 @@
-# cv
+The CV website shows my education and work experience as well as my hobbies. It also contains a contact page where the user can enter their name, email, and a message. The website was built with HTML and CSS
